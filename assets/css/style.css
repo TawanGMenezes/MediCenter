@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  display: flex;
+  justify-content: center;
+  height: 120px;
+  
+}
+
+
+.container{
+  width: 990px;
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.logo{
+  background-color: aquamarine;
+  display: flex;
+  align-items: center;
+  
+
+}
+
